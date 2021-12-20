@@ -1,0 +1,25 @@
+<root>
+	<title>list</title>
+	<content>
+		<user>
+			<number>1</number>
+			<name>Иван</name>
+			<surname>Борисов</surname>
+			<university>ИТМО</university>
+			<stage>bachelor</stage>
+			<year>1</year>
+			<speciality>СППО</speciality>
+		</user>
+		<user>
+			<number>1</number>
+			<name>Михаил</name>
+			<surname>Иванов</surname>
+			<university>ИТМО</university>
+			<stage>bachelor</stage>
+			<year>2</year>
+			<speciality>Дизайн</speciality>
+		</user>
+	</content>
+</root>
+
+
